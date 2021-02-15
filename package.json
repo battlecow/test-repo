@@ -25,14 +25,14 @@
 		"url": "https://github.com/themeix/gulp-quickstart-pack/issues"
 	},
 	"dependencies": {
-		"jquery": "^3.5.1",
-		"bootstrap": "^4.5.0"
+		"bootstrap": "^4.5.0",
+		"jquery": "^3.5.1"
 	},
 	"devDependencies": {
-		"gulp": "^4.0.2",
 		"ansi-colors": "^4.1.1",
 		"concat": "^3.0.0",
 		"del": "^5.1.0",
+		"gulp": "^4.0.2",
 		"gulp-autoprefixer": "^7.0.1",
 		"gulp-clean-css": "^4.3.0",
 		"gulp-concat": "^2.6.1",
